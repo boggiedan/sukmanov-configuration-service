@@ -1,2 +1,2 @@
 # sukmanov-configuration-service
-Configuration properties for sukmanov environment
+Configuration properties for services
